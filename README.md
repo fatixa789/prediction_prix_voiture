@@ -40,7 +40,7 @@ Ce projet implémente un modèle de **machine learning** capable de prédire le 
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone le dépôt :
 
