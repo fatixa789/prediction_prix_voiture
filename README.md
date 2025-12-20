@@ -1,7 +1,3 @@
-# prediction prix voitures 
-
-
----
 
 #  Prédiction des Prix des Voitures
 
@@ -9,7 +5,7 @@ Ce projet implémente un modèle de **machine learning** capable de prédire le 
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 *  **EDA (Exploratory Data Analysis)** pour comprendre les données et leurs distributions
 *  **Feature Engineering** pour préparer les données avant modélisation
@@ -20,7 +16,7 @@ Ce projet implémente un modèle de **machine learning** capable de prédire le 
 
 ---
 
-## 🧠 📈 Comment ça marche ?
+##  Comment ça marche ?
 
 1. **Nettoyage des données**
 
